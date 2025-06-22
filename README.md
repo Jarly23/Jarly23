@@ -31,14 +31,14 @@ Soy un desarrollador **web y móvil** apasionado por el aprendizaje continuo y l
 
 > Actualmente sigo desarrollando nuevos proyectos para mejorar mis habilidades y ampliar mi portafolio.
 
-> ¿Quieres saber más? [¡Visita mi portafolio!](https://jarly-dev-portfolio.vercel.app/)
+
 
 ---
 
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jarly-yucra-ccallocsa/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-web?style=for-the-badge&logo=vercel)](https://jarly-dev-portfolio.vercel.app/)
+
 
 ---
 
